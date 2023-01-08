@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Iranian Censorship Bypass VPNs. To buy Contact me on Telegram**
 
-- 📫 How to reach me **Telegram: https://t.me/mhakash56**
+- 📫 How to reach me **Telegram: https://t.me/mlsbd202**
 
 <h3 align="left">Connect with me:</h3>
 
