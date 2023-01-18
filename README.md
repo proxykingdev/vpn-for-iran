@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proxykingdev&label=Profile%20views&color=0e75b6&style=flat" alt="proxykingdev" /> </p>
 
-- 🔭 I’m currently working on **Iranian Censorship Bypass VPNs. To buy Contact me on Telegram**
+- 🔭 I’m currently working on **Paid Iranian Censorship Bypass VPNs. To buy Contact me on Telegram**
 
-- 📫 How to reach me **Telegram: https://t.me/mlsbd202**
+- 📫 How to reach me (I only speak English) **Telegram: https://t.me/mlsbd202**
 
 <h3 align="left">Connect with me:</h3>
 
