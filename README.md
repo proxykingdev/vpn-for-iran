@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Paid Iranian Censorship Bypass VPNs. To buy Contact me on Telegram**
 
-- 📫 How to reach me (I only speak English) **Telegram: https://t.me/mlsbd202**
+- 📫 How to reach me (I only speak English) **Telegram: https://t.me/rkp3300**
 
 <h3 align="left">Connect with me:</h3>
 
