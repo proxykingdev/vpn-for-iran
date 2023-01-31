@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm VPN Developer</h1>
 
-<h3 align="center">A passionate developer from Iran</h3>
+<h3 align="center">A passionate developer from Iran/China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proxykingdev&label=Profile%20views&color=0e75b6&style=flat" alt="proxykingdev" /> </p>
 
 - 🔭 I’m currently working on **Paid Iranian Censorship Bypass VPNs. To buy Contact me on Telegram**
 
-- 📫 How to reach me (I only speak English) **Telegram: https://t.me/rkp3300**
+- 📫 How to reach me (I only speak English & Chinese) **Telegram: https://t.me/rkp3300**
 
 <h3 align="left">Connect with me:</h3>
 
