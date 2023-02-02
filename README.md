@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm VPN Developer</h1>
+<h1 align="center">Hi 👋, I'm VPN/Proxy Tool Developer</h1>
 
 <h3 align="center">A passionate developer from Iran/China</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=proxykingdev&label=Profile%20views&color=0e75b6&style=flat" alt="proxykingdev" /> </p>
+<h3 align="center">Price $400 - Lifetime License</h3>
 
-- 🔭 I’m currently working on **Paid Iranian Censorship Bypass VPNs. To buy Contact me on Telegram**
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=proxykingdev&label=Profile%20views&color=0e75b6&style=flat" alt="proxykingdev" /> </p>
 
+- 👨‍💻 I’m currently working on **Paid Iranian Censorship Bypass VPNs. To buy Contact me on Telegram**
+- 🌐 This software also works on all other countries 
 - 📫 How to reach me (I only speak English & Chinese) **Telegram: https://t.me/rkp3300**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">System Requirements</h3>
 
-<p align="left">
-
-</p>
+ ⭐ **Debian 9+** or **Ubuntu 18.04+** ⭐
 
 <h3 align="left">Languages and Tools:</h3>
 
