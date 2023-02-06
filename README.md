@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm VPN/Proxy Tool Developer</h1>
 
-<h3 align="center">A passionate developer from Iran/China</h3>
-
+<h3 align="center">Bypass Iran Censorship. This is the best VPN for Iran.</h3>
+<p align="center">This tool perfectly works inside iran on all networks. </p>
 <h3 align="center">Price $400 - Lifetime License</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=proxykingdev&label=User%20count&color=0e75b6&style=flat" alt="proxykingdev" /> </p>
 
 - 👨‍💻 I’m currently working on **Paid** Iranian Censorship Bypass VPNs. To buy Contact me on Telegram
 - 🌐 This software also works on all other countries 
-- 📫 How to reach me (I only speak **English** & **Chinese**) **Telegram:** https://t.me/rkp3300
+- 📫 Contact (I only speak **English** & **Chinese**) **Telegram:** https://t.me/rkp3300
 - ⚠️ **Do not contact if you can't pay the above price** 
 
 <h3 align="center">System Requirements</h3>
