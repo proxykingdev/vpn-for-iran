@@ -4,11 +4,12 @@
 
 <h3 align="center">Price $400 - Lifetime License</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=proxykingdev&label=Profile%20views&color=0e75b6&style=flat" alt="proxykingdev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=proxykingdev&label=User%20count&color=0e75b6&style=flat" alt="proxykingdev" /> </p>
 
-- 👨‍💻 I’m currently working on **Paid Iranian Censorship Bypass VPNs. To buy Contact me on Telegram**
+- 👨‍💻 I’m currently working on **Paid** Iranian Censorship Bypass VPNs. To buy Contact me on Telegram
 - 🌐 This software also works on all other countries 
-- 📫 How to reach me (I only speak English & Chinese) **Telegram: https://t.me/rkp3300**
+- 📫 How to reach me (I only speak **English** & **Chinese**) **Telegram:** https://t.me/rkp3300
+- ⚠️ **Do not contact if you can't pay the above price** 
 
 <h3 align="center">System Requirements</h3>
 
