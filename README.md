@@ -3,7 +3,7 @@
 <h3 align="center">Bypass Iran Censorship. This is the best VPN for Iran.</h3>
 <p align="center">This tool perfectly works inside iran on all networks. </p>
 <h3 align="center">Price $400 - Lifetime License</h3>
-
+<p align="center">Payment Method : Cryptocurrency</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=proxykingdev&label=User%20count&color=0e75b6&style=flat" alt="proxykingdev" /> </p>
 
 - 👨‍💻 I’m currently working on **Paid** Iranian censorship bypass VPNs. To buy contact me on telegram
