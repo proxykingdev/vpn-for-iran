@@ -13,7 +13,7 @@
 <p align="center"> <a href="https://commerce.coinbase.com/checkout/81d45993-e208-49f1-a50c-f2a52089afe0" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Buy%20Now-brightgreen?style=for-the-badge&logoColor=white&logo=DocuSign" alt="buy" height="40" /> </p>
 
 </br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=proxykingdev&label=User%20count&color=0e75b6&style=flat" alt="proxykingdev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=proxykingdev&label=Total%20Users&color=0e75b6&style=flat" alt="proxykingdev" /> </p>
 
 <h3 align="center" > Special Features </h3>
 
