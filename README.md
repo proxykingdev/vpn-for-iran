@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm VPN/Proxy Tool Developer</h1>
 
-<h3 align="center">Bypass Iran Censorship. This is the best VPN for Iran.</h3>
+<h3 align="center">Bypass Iran Censorship. The Ultimate VPN for Iran</h3>
 <p align="center">This tool perfectly works inside iran on all networks. </p>
+
+![Screenshot](terminal-1.png)
+
+![Screenshot](terminal-2.png)
+
 <h3 align="center">Price $200 - Lifetime License</h3>
 <p align="center">Payment Method : Cryptocurrency</p>
 <br>
@@ -10,16 +15,26 @@
 </br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=proxykingdev&label=User%20count&color=0e75b6&style=flat" alt="proxykingdev" /> </p>
 
-- 👨‍💻 I’m currently working on **Paid** Iranian censorship bypass VPNs. Buy from the above button ☝️
-- 🌐 This software also works on all other countries 
+<h3 align="center" > Special Features </h3>
 
+- Custom UDP/TCP Packet Muxer
+- Auto rotate protocol
+- Auto daily signature evasion mechanism update
+- Daily Auto update encryption key
+- Supports Multicast/Unicast
+- Supports Google TCP-BBR
+- Supports MultiPath TCP (MPTCP)
+- Multi Server Support
+- One Click Server Change. 
+- Per User Speed Limit Feature
+- Multiple Frontend Support
 
 
 <h3 align="center">System Requirements</h3>
 
  ⭐ **Debian 9+** or **Ubuntu 18.04+** ⭐
 
-<h3 align="left">Languages used in this VPN:</h3>
+<h3 align="center">Languages used in this VPN</h3>
 
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
