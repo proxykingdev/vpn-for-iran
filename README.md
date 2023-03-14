@@ -28,6 +28,7 @@
 - One Click Server Change. 
 - Per User Speed Limit Feature
 - Multiple Frontend Support
+- Upto 1000 users (4GB Ram 2Core CPU)
 
 
 <h3 align="center">System Requirements</h3>
