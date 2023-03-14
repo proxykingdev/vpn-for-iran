@@ -12,7 +12,7 @@
 
 - 👨‍💻 I’m currently working on **Paid** Iranian censorship bypass VPNs. Buy from the above button ☝️
 - 🌐 This software also works on all other countries 
-- 📫 Contact (I only speak **English** & **Chinese**) **Telegram:** https://t.me/rkp3300
+
 
 
 <h3 align="center">System Requirements</h3>
