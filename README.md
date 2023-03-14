@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm VPN/Proxy Tool Developer</h1>
+<h1 align="center">Hi 👋, I'm a VPN/Proxy Tool Developer</h1>
 
 <h3 align="center">Bypass Iran Censorship. The Ultimate VPN for Iran</h3>
 <p align="center">This tool perfectly works inside iran on all networks. </p>
@@ -17,17 +17,18 @@
 
 <h3 align="center" > Special Features </h3>
 
-- Custom UDP/TCP Packet Muxer
+- Supports XRay, V2Ray, Trojan, SS, SSR, Vmess, Vless protocols
+- Custom UDP/TCP packet Muxer
 - Auto rotate protocol
 - Auto daily signature evasion mechanism update
-- Daily Auto update encryption key
+- Daily auto update encryption key
 - Supports Multicast/Unicast
 - Supports Google TCP-BBR
 - Supports MultiPath TCP (MPTCP)
-- Multi Server Support
-- One Click Server Change. 
-- Per User Speed Limit Feature
-- Multiple Frontend Support
+- Multi server support
+- One click server change. 
+- Per user speed limit feature
+- Multiple Frontend support
 - Upto 1000 users (4GB Ram 4Core CPU)
 
 
