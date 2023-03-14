@@ -3,7 +3,7 @@
 <h3 align="center">Bypass Iran Censorship. The Ultimate VPN for Iran</h3>
 <p align="center">This tool perfectly works inside iran on all networks. </p>
 
-![Screenshot](terminal-1.png)
+![Screenshot](terminal-3.png)
 
 ![Screenshot](terminal-2.png)
 
